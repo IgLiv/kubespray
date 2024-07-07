@@ -5,3 +5,4 @@ boto==2.9.0
 tox
 dopy
 PyCrypto
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
