@@ -4,3 +4,4 @@ netaddr
 pbr>=1.6
 ansible-modules-hashivault>=3.9.4
 hvac
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
